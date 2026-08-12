@@ -1,1 +1,3 @@
 # deeplearning
+CONTAINS MY LEARNINGS FROM DEEP LEARNING AND NEURAL NETWORK 
+still in progress
